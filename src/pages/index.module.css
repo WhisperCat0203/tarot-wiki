@@ -1,0 +1,63 @@
+.heroBanner {
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  background: #110325a4; /* Black background */
+}
+
+@keyframes stars {
+  0% {
+    transform: translateY(0px);
+  }
+  100% {
+    transform: translateY(-2000px);
+  }
+}
+
+.stars {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2000px;
+  background-image: radial-gradient(2px 2px at 20px 30px, #ddd, rgba(0, 0, 0, 0)),
+    radial-gradient(2px 2px at 40px 70px, #bbb501, rgba(0, 0, 0, 0)),
+    radial-gradient(2px 2px at 50px 160px, #ddd, rgba(0, 0, 0, 0)),
+    radial-gradient(2px 2px at 90px 40px, #bbb501, rgba(0, 0, 0, 0)),
+    radial-gradient(2px 2px at 130px 80px, #bbb501, rgba(0, 0, 0, 0)),
+    radial-gradient(2px 2px at 160px 120px, #ddd, rgba(0, 0, 0, 0));
+  background-repeat: repeat;
+  background-size: 200px 200px;
+  animation: stars 20s linear infinite;
+}
+
+
+.projectName {
+  color: #ae80e2; /* Periwinkle Purple */
+  font-size: 4.5rem; /* Increased font size */
+  font-weight: 500;
+  margin-bottom: 0; /* Remove margin to decrease line space */
+  text-shadow: 0 0 5px rgba(253, 239, 113, 0.7), 0 0 5px rgba(255, 183, 67, 0.5);
+  font-family: 'Dancing Script', cursive; /* Applied new font */
+  /* letter-spacing: 1px; */
+  transform: rotate(-1deg);
+  display: inline-block;
+  filter: blur(0.5px); /* Added blur effect */
+}
+
+.heroIntroduction {
+  color: #D8BFD8; /* Thistle - soft purple */
+  font-size: 2.5rem;
+  font-weight: 400;
+  margin: 2rem 0 2rem 0; /* Adjusted margins */
+  text-shadow: 0 0 5px rgba(216, 191, 216, 0.6), 0 0 10px rgba(224, 187, 228, 0.4);
+  font-family: 'Dancing Script', cursive; /* Applied new font */
+  font-style: italic;
+  letter-spacing: 1px;
+  line-height: 1.3;
+}
