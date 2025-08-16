@@ -4,7 +4,58 @@ sidebar_position: 15
 
 # Temperance (XIV)
 
-- *Upright:* Balance, moderation, patience, purpose
-- *Reversed:* Imbalance, excess, self-healing, re-alignment
-- *Astrology:* Sagittarius
-- *Meaning:* Find balance and moderation in all things.
+- *General Meaning* 
+- *Upright:* Represents balance, harmony, patience, and moderation. It is the card of blending opposites, compromise, and finding the middle path. Suggests spiritual growth, healing, and adapting peacefully to life’s changes.
+- *Reversed:* Symbolizes imbalance, excess, and lack of moderation. It can point to conflict, impatience, or refusal to compromise. Warns of extremes that disturb stability.
+  
+- *Career*
+- *Upright:* Indicates steady progress, teamwork, and diplomacy. Success comes from patience, compromise, and combining different skills or perspectives. A good time for negotiations, collaborations, or gradual long-term growth.
+- *Reversed:* Suggests workplace imbalance — conflicts with colleagues, poor teamwork, or overworking. May also reflect frustration from trying to rush progress instead of allowing steady development.
+
+- *Love*
+- *Upright:* A balanced and harmonious relationship based on mutual understanding, patience, and compromise. Passion and stability coexist peacefully. For singles, it suggests attracting love through openness and calm energy.
+- *Reversed:* Represents disharmony, miscommunication, or lack of balance in the relationship. One-sided efforts or extreme emotional reactions may cause tension. For singles, it can mean difficulty finding balance between independence and intimacy.
+
+- *Study*
+- *Upright:* Symbolizes consistent effort and a balanced learning pace. You achieve success through patience, planning, and mixing different learning approaches.
+- *Reversed:* Suggests lack of discipline or imbalance in study habits. Overworking or procrastination may both hinder progress.
+
+- *Health*
+- *Upright:* Reflects healing and recovery through balanced lifestyle choices. Encourages moderation in diet, exercise, and rest. Mental and physical health are in harmony.
+- *Reversed:* Signals stress, imbalance, or harmful excess (such as overwork, unhealthy habits, or ignoring rest). Warns of health risks caused by extremes.
+
+- *Relationships*
+- *Upright:* Relationships flourish with patience, tolerance, and compromise. Conflicts can be solved through calm communication and empathy.
+- *Reversed:* Suggests tension, impatience, or unwillingness to compromise. Imbalance in give-and-take may cause distance or conflict.
+
+- *Yes/No Question*
+- *Upright:* Yes — if you take the middle path, exercise patience, and maintain balance.
+- *Reversed:* No — extremes or lack of harmony will block the outcome.
+
+
+# 节制牌 14
+- *代表星座:* 射手座♐️
+- *综合含义:* 
+  - *正位:* 象征平衡、和谐、耐心与适度。代表调和矛盾、取中庸之道。也提示灵性成长、疗愈，以及以平和的心态去适应生活的变化。
+  - *逆位:* 代表失衡、过度、缺乏节制。可能出现冲突、急躁或拒绝妥协。提醒避免极端化带来的不稳定。
+
+- *事业:* 
+  - *正位:* 象征稳步发展、团队合作与外交手腕。通过耐心、妥协和整合不同观点来取得成果。适合谈判、合作，或规划长期目标。
+  - *逆位:* 表示职场中失衡，可能有同事间的冲突、团队协作不佳，或因过度劳累导致效率下降。也可能是过于急功近利而破坏发展。
+- *爱情:* 
+  - *正位:* 关系建立在理解、耐心与妥协上，激情与稳定并存。单身者可能因平和、开放的气质吸引他人。
+  - *逆位:* 暗示关系中的不平衡或沟通不畅。可能出现一方付出过多，或情绪化的极端行为。单身者则可能难以在独立与亲密之间找到平衡。
+- *学业:* 
+  - *正位:* 代表稳扎稳打与循序渐进。通过合理安排时间与结合多样学习方法来取得进步。
+  - *逆位:* 学习状态失衡，可能过度用功导致疲惫，或因拖延而进度受阻。
+- *健康:* 
+  - *正位:* 表示康复与恢复，提醒通过饮食、运动与休息的平衡来保持健康。身心处于和谐状态。
+  - *逆位:* 警示压力过大或生活习惯极端，如过度劳累、暴饮暴食或缺乏休息，容易造成健康问题。
+- *人际:* 
+  - *正位:* 人际关系在包容、耐心与妥协下更加融洽。矛盾可通过冷静沟通解决。
+  - *逆位:* 暗示关系紧张，可能因急躁或不愿妥协而破裂。付出与回报的不平衡也可能带来隔阂。
+
+    
+- *是否问题:* 
+  - *正位:* 是 —— 只要保持耐心与平衡，就会有好的结果。
+  - *逆位:* 否 —— 过度或失衡会阻碍事情的顺利进行。
