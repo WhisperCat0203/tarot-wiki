@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[8947],{6600:t=>{t.exports=JSON.parse('{"authors":[{"name":"tptrix","title":"Maintainer","url":"https://github.com/tptrix29","imageURL":"https://github.com/tptrix29.png","key":"tptrix","page":null,"count":1}]}')}}]);

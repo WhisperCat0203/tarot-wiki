@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[6016],{263:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/zh-Hans/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[1020],{6444:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/tarot-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

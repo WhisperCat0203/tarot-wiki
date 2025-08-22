@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/tarot-wiki/zh-Hans/blog","blogTitle":"Blog","authorsListPath":"/tarot-wiki/zh-Hans/blog/authors"}')}}]);

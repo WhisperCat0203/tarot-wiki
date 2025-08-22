@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[7472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Post","permalink":"/blog/first-post","unlisted":false,"date":"2025-08-03T00:00:00.000Z"}]}')}}]);

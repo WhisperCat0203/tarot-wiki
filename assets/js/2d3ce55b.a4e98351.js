@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[2800],{8513:a=>{a.exports=JSON.parse('{"tags":[{"label":"hello","permalink":"/tarot-wiki/blog/tags/hello","count":1},{"label":"docusaurus","permalink":"/tarot-wiki/blog/tags/docusaurus","count":1}]}')}}]);

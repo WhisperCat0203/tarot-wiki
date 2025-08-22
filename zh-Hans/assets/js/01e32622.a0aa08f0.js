@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[5738],{2725:a=>{a.exports=JSON.parse('{"tags":[{"label":"hello","permalink":"/zh-Hans/blog/tags/hello","count":1},{"label":"docusaurus","permalink":"/zh-Hans/blog/tags/docusaurus","count":1}]}')}}]);
