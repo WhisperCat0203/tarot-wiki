@@ -15,14 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://tptrix29.github.io',
+  url: 'https://whispercat0203.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/tarot-wiki/',
+  deploymentBranch: 'gh-pages',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'tptrix29', // Usually your GitHub org/user name.
+  organizationName: 'whispercat0203', // Usually your GitHub org/user name.
   projectName: 'tarot-wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
