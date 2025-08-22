@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Whispers of Fate Blog</title>
-        <link>https://tptrix29.github.io/blog</link>
+        <link>https://whispercat0203.github.io/blog</link>
         <description>Whispers of Fate Blog</description>
         <lastBuildDate>Sun, 03 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[First Post]]></title>
-            <link>https://tptrix29.github.io/blog/first-post</link>
-            <guid>https://tptrix29.github.io/blog/first-post</guid>
+            <link>https://whispercat0203.github.io/blog/first-post</link>
+            <guid>https://whispercat0203.github.io/blog/first-post</guid>
             <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[This is my first post on the Tarot Wiki blog!]]></description>
             <content:encoded><![CDATA[<p>This is my first post on the Tarot Wiki blog!</p>]]></content:encoded>

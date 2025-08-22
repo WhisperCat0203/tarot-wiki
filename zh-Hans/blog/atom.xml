@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tptrix29.github.io/zh-Hans/blog</id>
+    <id>https://whispercat0203.github.io/zh-Hans/blog</id>
     <title>Whispers of Fate Blog</title>
     <updated>2025-08-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tptrix29.github.io/zh-Hans/blog"/>
+    <link rel="alternate" href="https://whispercat0203.github.io/zh-Hans/blog"/>
     <subtitle>Whispers of Fate Blog</subtitle>
-    <icon>https://tptrix29.github.io/zh-Hans/data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;🔮&lt;/text&gt;&lt;/svg&gt;</icon>
+    <icon>https://whispercat0203.github.io/zh-Hans/data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;🔮&lt;/text&gt;&lt;/svg&gt;</icon>
     <entry>
         <title type="html"><![CDATA[First Post]]></title>
-        <id>https://tptrix29.github.io/zh-Hans/blog/first-post</id>
-        <link href="https://tptrix29.github.io/zh-Hans/blog/first-post"/>
+        <id>https://whispercat0203.github.io/zh-Hans/blog/first-post</id>
+        <link href="https://whispercat0203.github.io/zh-Hans/blog/first-post"/>
         <updated>2025-08-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is my first post on the Tarot Wiki blog!]]></summary>
         <content type="html"><![CDATA[<p>This is my first post on the Tarot Wiki blog!</p>]]></content>
