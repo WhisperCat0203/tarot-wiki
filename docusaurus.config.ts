@@ -33,7 +33,16 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh-Hans'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      'zh-Hans': {
+        label: '中文（简体）',
+        htmlLang: 'zh-Hans',
+      },
+    },
   },
 
   presets: [
@@ -95,6 +104,10 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -105,7 +118,7 @@ const config: Config = {
           items: [
             {
               label: 'Tarot Wiki',
-              to: '/docs/intro',
+              to: '/docs/introduction-to-tarot/what-is-tarot-used-for',
             },
           ],
         },

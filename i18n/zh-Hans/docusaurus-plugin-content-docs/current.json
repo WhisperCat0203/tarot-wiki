@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Introduction to Tarot": {
+    "message": "Introduction to Tarot",
+    "description": "The label for category Introduction to Tarot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Major Arcana": {
+    "message": "Major Arcana",
+    "description": "The label for category Major Arcana in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Minor Arcana": {
+    "message": "Minor Arcana",
+    "description": "The label for category Minor Arcana in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Wands": {
+    "message": "Wands",
+    "description": "The label for category Wands in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cups": {
+    "message": "Cups",
+    "description": "The label for category Cups in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Swords": {
+    "message": "Swords",
+    "description": "The label for category Swords in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Pentacles": {
+    "message": "Pentacles",
+    "description": "The label for category Pentacles in sidebar tutorialSidebar"
+  }
+}
