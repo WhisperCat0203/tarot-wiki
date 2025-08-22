@@ -8,7 +8,8 @@ Prerequisites: install `npm`
 
 ```shell
 npm install
-npm start
+npm run build 
+npm run serve
 ```
 
 Change page contents: Go to `docs` directory and find files ending with `.md` to edit page.
