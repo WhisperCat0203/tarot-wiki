@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tptrix29/tarot-wiki/tree/main/',
+            'https://github.com/whispercat0203/tarot-wiki/tree/main/',
         },
         blog: {
           authorsMapPath: 'authors.yml',
@@ -67,7 +67,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tptrix29/tarot-wiki/tree/main/',
+            'https://github.com/whispercat0203/tarot-wiki/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -101,7 +101,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/tptrix29/tarot-wiki',
+          href: 'https://github.com/whispercat0203/tarot-wiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -149,7 +149,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/tptrix29/tarot-wiki',
+              href: 'https://github.com/whispercat0203/tarot-wiki',
             },
           ],
         },
