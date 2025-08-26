@@ -4,6 +4,7 @@ sidebar_position: 11
 
 # Wheel of Fortune (X)
 
+- *Zodiac Sign* Sagittarius♐️
 - *General Meaning*
 - *Upright:* The Wheel of Fortune is a card of destiny, cycles, and inevitable change. It represents the ups and downs of life and reminds us that fortune is ever-turning. Upright, it brings opportunities, positive outcomes, and divine timing. It suggests that you are aligned with universal flow, and change will bring growth, even if unexpected.
 - *Reversed:* When reversed, the Wheel warns of resistance to change, missed opportunities, or feeling trapped in a negative cycle. It may signal bad luck, delays, or lessons repeating until you adapt. It is a reminder to accept what cannot be controlled and to learn resilience.
