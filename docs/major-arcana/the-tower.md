@@ -4,6 +4,7 @@ sidebar_position: 17
 
 # The Tower (XVI)
 
+- *Zodiac Sign* Aries♈️
 - *General Meaning*
 - *Upright:* The Tower represents sudden upheaval, shocking revelations, and the destruction of false foundations. It is a card of chaos and awakening, where old structures collapse to make way for truth and growth. Though often frightening, it signals liberation from illusions.
 - *Reversed:* Reversed Tower often softens the blow. It may mean narrowly avoiding disaster, internal transformation, or resistance to necessary change. Alternatively, it can indicate clinging to unstable structures, making the eventual collapse harsher.
