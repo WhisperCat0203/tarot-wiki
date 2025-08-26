@@ -4,6 +4,7 @@ sidebar_position: 22
 
 # The World (XXI)
 
+- *Zodiac Sign* Capricornus♑️
 - *General Meaning*
 - *Upright:* The World represents completion, fulfillment, and wholeness. It signifies the successful conclusion of a major cycle, harmony with oneself and the universe, and stepping into a new level of awareness. It is a card of achievement, balance, and unity.
 - *Reversed:* When reversed, it suggests delays in completion, unfinished business, or lack of closure. It may signal stagnation, resistance to ending a chapter, or feeling incomplete despite outward success.
