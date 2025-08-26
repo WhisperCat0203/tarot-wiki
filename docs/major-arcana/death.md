@@ -4,6 +4,7 @@ sidebar_position: 14
 
 # Death (XIII)
 
+- *Zodiac Sign* Scorpio♏️
 - *General Meaning*
 - *Upright:* Symbolizes endings and rebirth. It marks the close of one stage and the beginning of another. Though often accompanied by pain or loss, its essence is transformation and renewal. It emphasizes “letting go of the old to welcome the new,” encouraging growth through release.
 - *Reversed:* Suggests stagnation, resistance to change, or an inability to let go of the past. It may reflect being stuck in an unhealthy state, unwilling to accept necessary transformation, thereby delaying progress.
