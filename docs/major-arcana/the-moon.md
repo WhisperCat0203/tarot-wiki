@@ -4,6 +4,7 @@ sidebar_position: 19
 
 # The Moon (XVIII)
 
+- *Zodiac Sign* Pisces♓️
 - *General Meaning*
 - *Upright:* The Moon symbolizes illusions, confusion, and the realm of dreams and intuition. Upright, it represents uncertainty, hidden truths, and situations where things are not as they seem. It encourages trusting your instincts and being cautious of deception, while also inviting you to explore the subconscious and spiritual insight.
 - *Reversed:* Reversed Moon indicates clarity beginning to emerge after confusion, hidden matters revealed, or self-deception exposed. It may also reflect deeper fears, anxiety, or being overwhelmed by illusions. At times, it shows ignoring intuition or refusing to face reality.
