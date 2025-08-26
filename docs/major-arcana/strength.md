@@ -4,6 +4,7 @@ sidebar_position: 9
 
 # Strength (VIII)
 
+- *Zodiac Sign* Leo♌️
 - *General Meaning*
 - *Upright:* Symbolizes inner strength, courage, patience, and self-control. It represents the ability to overcome challenges through calm determination rather than force. Encourages compassion, resilience, and confidence.
 - *Reversed:* Suggests weakness, self-doubt, or lack of control. It can indicate impulsiveness, fear, or being overwhelmed by emotions and external pressures.
