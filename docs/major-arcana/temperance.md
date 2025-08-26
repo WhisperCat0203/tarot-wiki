@@ -4,6 +4,7 @@ sidebar_position: 15
 
 # Temperance (XIV)
 
+- *Zodiac Sign* Sagittarius♐️
 - *General Meaning* 
 - *Upright:* Represents balance, harmony, patience, and moderation. It is the card of blending opposites, compromise, and finding the middle path. Suggests spiritual growth, healing, and adapting peacefully to life’s changes.
 - *Reversed:* Symbolizes imbalance, excess, and lack of moderation. It can point to conflict, impatience, or refusal to compromise. Warns of extremes that disturb stability.
