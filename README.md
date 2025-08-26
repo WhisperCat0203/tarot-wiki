@@ -10,6 +10,7 @@ Prerequisites: install `npm`
 npm install
 npm run build 
 npm run serve
+npm run deploy # deploy to github pages
 ```
 
 Change page contents: Go to `docs` directory and find files ending with `.md` to edit page.
