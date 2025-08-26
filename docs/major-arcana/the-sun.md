@@ -4,6 +4,7 @@ sidebar_position: 20
 
 # The Sun (XIX)
 
+- *Zodiac Sign* Leo♌️
 - *General Meaning*
 - *Upright:* The Sun is one of the most positive cards in tarot. It represents joy, vitality, success, and enlightenment. Upright, it brings clarity, confidence, and radiant energy. It suggests that truth is revealed, obstacles are cleared, and happiness is within reach. It is a card of optimism, growth, and prosperity.
 - *Reversed:* When reversed, The Sun’s light is dimmed but not extinguished. It may represent temporary sadness, self-doubt, or overconfidence. Sometimes it suggests unrealistic expectations, delayed success, or struggling to see the brighter side of a situation.
