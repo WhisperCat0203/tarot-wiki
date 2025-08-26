@@ -4,6 +4,7 @@ sidebar_position: 12
 
 # Justice (XI)
 
+- *Zodiac Sign* Libra♎️
 - *General Meaning*
 - *Upright:* Represents fairness, truth, and accountability. It calls for objective judgment, rational thinking, and responsibility for one’s actions. Symbolizes balance and the law of cause and effect.
 - *Reversed:* Indicates dishonesty, bias, or evading responsibility. Suggests imbalance, unfair treatment, or unwillingness to confront the truth.
