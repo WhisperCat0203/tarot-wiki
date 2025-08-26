@@ -4,6 +4,7 @@ sidebar_position: 21
 
 # Judgement (XX)
 
+- *Zodiac Sign* Scorpio♏️
 - *General Meaning*
 - *Upright:* Represents awakening, renewal, and self-evaluation. It calls for reflection, learning from the past, and making decisive choices for the future. It symbolizes rebirth, second chances, and clarity that comes from honesty with oneself.
 - *Reversed:* Indicates avoidance of responsibility, self-doubt, or refusal to acknowledge the truth. It can also suggest fear of change, denial of past mistakes, or being trapped in indecision.
