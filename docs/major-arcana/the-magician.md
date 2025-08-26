@@ -4,6 +4,7 @@ sidebar_position: 2
 
 # The Magician (I)
 
+- *Zodiac Sign* Virgo♍️
 - *General Meaning*
 - *Upright:* The Magician represents power, skill, resourcefulness, and the ability to manifest goals through willpower and focused action. Upright, it signals opportunities where you have all the tools needed — intellect, communication, creativity, and determination — to create success. It embodies alignment between inspiration and execution.
 - *Reversed:* Reversed Magician warns of manipulation, misuse of power, or wasted potential. It may indicate deception by others, scattered focus, or lack of confidence. Skills and resources are present, but they may be misdirected or blocked by self-doubt.
