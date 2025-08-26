@@ -4,6 +4,7 @@ sidebar_position: 8
 
 # The Chariot (VII)
 
+- *Zodiac Sign* Cancer♋️
 - *General Meaning*
 - *Upright:* The Chariot represents determination, willpower, and triumph over obstacles. Upright, it is about discipline, self-control, and using focused energy to overcome challenges. It often signals success through persistence and mastery of opposing forces. Victory is possible, but only through balance, focus, and confidence.
 - *Reversed:* Reversed Chariot warns of lack of direction, loss of control, or being pulled in conflicting directions. It can show aggression, recklessness, or giving up too easily. Without discipline and focus, efforts may scatter or fail.
