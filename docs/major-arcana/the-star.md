@@ -4,6 +4,7 @@ sidebar_position: 18
 
 # The Star (XVII)
 
+- *Zodiac Sign* Aquarius♒️
 - *General Meaning*
 - *Upright:* Renewal, hope, and calm after turmoil. The Star restores faith in yourself and life, inviting you to realign with your authentic purpose. Healing is gradual but real; your inner light guides long-term growth and creative flow.
 - *Reversed:* Doubt, discouraged outlook, or creative dryness. You may be ignoring self-care or feeling unseen. Rebuild trust through small, consistent acts; reduce noise, reconnect to values, and let healing start privately before it becomes visible.
