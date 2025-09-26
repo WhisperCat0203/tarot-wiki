@@ -4,5 +4,26 @@ sidebar_position: 1
 
 # Ace of Cups
 
-- *Upright:* Love, new relationships, compassion, creativity
-- *Reversed:* Self-love, intuition, repressed emotions
+- *Zodiac Sign*
+- *General Meaning*
+- *Upright:* 
+- *Reversed:* 
+- *Career*
+- *Upright:* 
+- *Reversed:* 
+- *Love*
+- *Upright:* 
+- *Reversed:* 
+- *Study*
+- *Upright:* 
+- *Reversed:* 
+- *Health*
+- *Upright:* 
+- *Reversed:* 
+- *Relationships*
+- *Upright:* 
+- *Reversed:* 
+
+- *Yes/No Question*
+- *Upright:* 
+- *Reversed:* 
