@@ -2,7 +2,34 @@
 sidebar_position: 9
 ---
 
-# Nine of Pentacles
+# 星币 IX
 
-- *Upright:* Abundance, luxury, self-sufficiency, financial independence
-- *Reversed:* Self-worth, over-investment in work, hustling
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
