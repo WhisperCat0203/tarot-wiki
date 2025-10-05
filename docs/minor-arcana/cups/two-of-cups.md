@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Two of Cups
 
-- *Zodiac Sign* Cancer ♋️
+- *Zodiac Sign* Pisces ♓️
 - *General Meaning*
   - *Upright:* The Two of Cups symbolizes union, harmony, and mutual attraction. It represents balanced partnerships built on trust, respect, and emotional connection. Often a sign of new relationships, reconciliations, or deepening bonds, it highlights equality and heartfelt exchange between two people.
   - *Reversed:* Reversed, it suggests imbalance, separation, or broken trust. Partnerships may suffer from miscommunication, lack of reciprocity, or unresolved conflict. It warns of disharmony and the need to restore balance before a bond can heal.
