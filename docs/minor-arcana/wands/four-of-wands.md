@@ -4,5 +4,31 @@ sidebar_position: 4
 
 # Four of Wands
 
-- *Upright:* Celebration, joy, harmony, relaxation, homecoming
-- *Reversed:* Personal celebration, inner harmony, conflict with others
+- *Zodiac Sign* 
+- *General Meaning*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Career*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Love*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Study*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Health*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Relationships*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Yes/No Question*
+  - *Upright:* 
+  - *Reversed:* 
