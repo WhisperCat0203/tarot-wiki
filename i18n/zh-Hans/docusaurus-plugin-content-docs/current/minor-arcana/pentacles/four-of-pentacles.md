@@ -2,7 +2,34 @@
 sidebar_position: 4
 ---
 
-# Four of Pentacles
+# 星币 IV
 
-- *Upright:* Saving money, security, conservatism, scarcity, control
-- *Reversed:* Over-spending, greed, self-protection
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
