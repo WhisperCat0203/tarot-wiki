@@ -2,7 +2,34 @@
 sidebar_position: 6
 ---
 
-# Six of Wands
+# 权杖 VI
 
-- *Upright:* Success, public recognition, progress, self-confidence
-- *Reversed:* Private achievement, personal definition of success, fall from grace, egotism
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
