@@ -2,7 +2,34 @@
 sidebar_position: 9
 ---
 
-# Nine of Cups
+# 圣杯 IX
 
-- *Upright:* Contentment, satisfaction, gratitude, wish come true
-- *Reversed:* Inner happiness, materialism, dissatisfaction, indulgence
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
