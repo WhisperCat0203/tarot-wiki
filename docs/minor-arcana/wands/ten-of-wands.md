@@ -4,5 +4,31 @@ sidebar_position: 10
 
 # Ten of Wands
 
-- *Upright:* Burden, extra responsibility, hard work, completion
-- *Reversed:* Doing it all, carrying the burden, delegation, release
+- *Zodiac Sign* 
+- *General Meaning*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Career*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Love*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Study*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Health*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Relationships*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Yes/No Question*
+  - *Upright:* 
+  - *Reversed:* 
