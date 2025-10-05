@@ -2,7 +2,34 @@
 sidebar_position: 11
 ---
 
-# Page of Wands
+# 权杖侍从
 
-- *Upright:* Inspiration, ideas, discovery, limitless potential, free spirit
-- *Reversed:* Newly-formed ideas, redirecting energy, self-limiting beliefs, a spiritual path
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
