@@ -2,7 +2,34 @@
 sidebar_position: 11
 ---
 
-# Page of Swords
+# 宝剑侍从
 
-- *Upright:* New ideas, curiosity, thirst for knowledge, new ways of communicating
-- *Reversed:* Self-expression, all talk and no action, haphazard action, haste
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
