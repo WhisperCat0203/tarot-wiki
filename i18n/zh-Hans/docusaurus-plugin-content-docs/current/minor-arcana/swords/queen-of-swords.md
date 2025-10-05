@@ -2,7 +2,34 @@
 sidebar_position: 13
 ---
 
-# Queen of Swords
+# 宝剑皇后
 
-- *Upright:* Independent, unbiased judgement, clear boundaries, direct communication
-- *Reversed:* Overly-emotional, easily influenced, bitchy, cold-hearted
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
