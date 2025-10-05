@@ -4,5 +4,31 @@ sidebar_position: 11
 
 # Page of Swords
 
-- *Upright:* New ideas, curiosity, thirst for knowledge, new ways of communicating
-- *Reversed:* Self-expression, all talk and no action, haphazard action, haste
+- *Zodiac Sign* 
+- *General Meaning*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Career*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Love*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Study*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Health*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Relationships*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Yes/No Question*
+  - *Upright:* 
+  - *Reversed:* 
