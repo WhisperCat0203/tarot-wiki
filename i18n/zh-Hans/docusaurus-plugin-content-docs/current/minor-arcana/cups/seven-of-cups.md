@@ -2,7 +2,34 @@
 sidebar_position: 7
 ---
 
-# Seven of Cups
+# 圣杯 VII
 
-- *Upright:* Opportunities, choices, wishful thinking, illusion
-- *Reversed:* Alignment, personal values, overwhelmed by choices
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
