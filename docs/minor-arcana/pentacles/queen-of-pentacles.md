@@ -4,5 +4,31 @@ sidebar_position: 13
 
 # Queen of Pentacles
 
-- *Upright:* Nurturing, practical, providing financially, a working parent
-- *Reversed:* Financial independence, self-care, work-home conflict
+- *Zodiac Sign* 
+- *General Meaning*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Career*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Love*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Study*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Health*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Relationships*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Yes/No Question*
+  - *Upright:* 
+  - *Reversed:* 
