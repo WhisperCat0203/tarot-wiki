@@ -2,7 +2,34 @@
 sidebar_position: 2
 ---
 
-# Two of Cups
+# 圣杯 II
 
-- *Upright:* Unified love, partnership, mutual attraction
-- *Reversed:* Self-love, break-ups, disharmony, distrust
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
