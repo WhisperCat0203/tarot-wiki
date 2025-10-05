@@ -8,27 +8,27 @@
     "description": "The label for category Introduction to Tarot in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Major Arcana": {
-    "message": "Major Arcana",
+    "message": "大阿尔卡纳",
     "description": "The label for category Major Arcana in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Minor Arcana": {
-    "message": "Minor Arcana",
+    "message": "小阿尔卡纳",
     "description": "The label for category Minor Arcana in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Wands": {
-    "message": "Wands",
+    "message": "权杖",
     "description": "The label for category Wands in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Cups": {
-    "message": "Cups",
+    "message": "圣杯",
     "description": "The label for category Cups in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Swords": {
-    "message": "Swords",
+    "message": "宝剑",
     "description": "The label for category Swords in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Pentacles": {
-    "message": "Pentacles",
+    "message": "星币",
     "description": "The label for category Pentacles in sidebar tutorialSidebar"
   }
 }

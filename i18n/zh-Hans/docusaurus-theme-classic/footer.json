@@ -13,7 +13,7 @@
   },
   "link.item.label.Tarot Wiki": {
     "message": "Tarot Wiki",
-    "description": "The label of footer link with label=Tarot Wiki linking to /docs/intro"
+    "description": "The label of footer link with label=Tarot Wiki linking to /docs/introduction-to-tarot/what-is-tarot-used-for"
   },
   "link.item.label.Stack Overflow": {
     "message": "Stack Overflow",
@@ -33,7 +33,7 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/tptrix29/tarot-wiki"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/whispercat0203/tarot-wiki"
   },
   "copyright": {
     "message": "Copyright © 2025 Tarot Wiki. Built with Docusaurus.",
