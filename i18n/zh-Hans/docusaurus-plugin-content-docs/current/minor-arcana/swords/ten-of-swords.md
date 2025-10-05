@@ -2,7 +2,34 @@
 sidebar_position: 10
 ---
 
-# Ten of Swords
+# 宝剑 X
 
-- *Upright:* Painful endings, deep wounds, betrayal, loss, crisis
-- *Reversed:* Recovery, regeneration, resisting an inevitable end
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
