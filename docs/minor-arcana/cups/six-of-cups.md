@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Six of Cups
 
-- *Zodiac Sign* Scorpio ♏️
+- *Zodiac Sign* Cancer ♋️
 - *General Meaning*
   - *Upright:* The Six of Cups symbolizes nostalgia, childhood memories, kindness, and harmony. It represents revisiting the past with warmth, reconnecting with old friends, or acts of generosity and innocence. This card highlights joy in simple pleasures and emotional healing through genuine connection.
   - *Reversed:* Reversed, it suggests being stuck in the past, unrealistic expectations, or immaturity. It may mean clinging to old wounds, idealizing “what was,” or resisting growth. It calls for letting go of nostalgia and embracing the present.
