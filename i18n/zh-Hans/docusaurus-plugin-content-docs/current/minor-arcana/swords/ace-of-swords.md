@@ -2,7 +2,34 @@
 sidebar_position: 1
 ---
 
-# Ace of Swords
+# 宝剑 I
 
-- *Upright:* Breakthroughs, new ideas, mental clarity, success
-- *Reversed:* Inner clarity, re-thinking an idea, clouded judgement
+- *代表星座:*
+- *综合含义:* 
+  - *正位:*
+  - *逆位:*
+    
+- *事业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *爱情:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *学业:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *健康:* 
+  - *正位:* 
+  - *逆位:*
+    
+- *人际:* 
+  - *正位:* 
+  - *逆位:* 
+
+    
+- *是否问题:* 
+  - *正位:* 
+  - *逆位:* 
