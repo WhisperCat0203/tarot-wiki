@@ -4,5 +4,31 @@ sidebar_position: 13
 
 # Queen of Swords
 
-- *Upright:* Independent, unbiased judgement, clear boundaries, direct communication
-- *Reversed:* Overly-emotional, easily influenced, bitchy, cold-hearted
+- *Zodiac Sign* 
+- *General Meaning*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Career*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Love*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Study*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Health*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Relationships*
+  - *Upright:* 
+  - *Reversed:* 
+
+- *Yes/No Question*
+  - *Upright:* 
+  - *Reversed:* 
