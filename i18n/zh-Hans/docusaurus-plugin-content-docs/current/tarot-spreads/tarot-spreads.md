@@ -2,16 +2,10 @@
 sidebar_position: 1
 ---
 
-# Tarot Spreads
+# 塔罗牌阵 
 
-- Single Card Draw
-- 3-Card Spread (Past, Present, Future)
-- Celtic Cross
-- Relationship Spreads
-- Career/Finance Spreads
-- Custom Spreads
+# 一张牌牌阵
 
-*Include:*
-- Layout diagrams
-- When to use
-- How to interpret positions
+# 适用场景：是否问题/整体运势/直接指引
+# 适用案例：今日整体运势？这件事是否可以暗示完成？这个项目是否可以成功？
+# 牌阵抽取顺序：1
