@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[7472],{5513:t=>{t.exports=JSON.parse('{"title":"\u6700\u8fd1\u53d1\u5e03","items":[{"title":"First Post","permalink":"/tarot-wiki/zh-Hans/blog/first-post","unlisted":false,"date":"2025-08-03T00:00:00.000Z"}]}')}}]);

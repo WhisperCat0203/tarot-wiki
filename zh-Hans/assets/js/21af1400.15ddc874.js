@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktarot_wiki=self.webpackChunktarot_wiki||[]).push([[8898],[t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/tarot-wiki/zh-Hans/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"\u535a\u5ba2","blogTitle":"\u535a\u5ba2"}}')}]]);
